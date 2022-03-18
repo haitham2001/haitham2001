@@ -1,6 +1,6 @@
 ## Hi there👋, I'm Haitham Mahmoud
 
-#### I study Computer Science in Ain-Shams university.
+### I study Computer Science in Ain-Shams university.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
